@@ -25,7 +25,7 @@ defmodule Thpt2019.MixProject do
     [
       {:httpoison, "~> 1.4"},
       {:jason, "~> 1.1"},
-      {:floki, "~> 0.20"},
+      {:floki, "~> 0.21.0"},
       {:html5ever, "~> 0.7.0"},
       {:gen_stage, "~> 0.11"},
       {:ecto_sql, "~> 3.0"},
